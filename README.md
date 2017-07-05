@@ -1,4 +1,4 @@
-# fishEatFruits
+# LovingFish
 A big fish eat fruits and feed the small fish
 
 ## 1.环境
@@ -7,10 +7,8 @@ A big fish eat fruits and feed the small fish
 
 ## 2.概述
 
-从慕课学习大鱼吃小鱼后，下来手动实现的一个版本。
 
-##### 需要的基础
-* 熟练的javascript技能
+*javascript技能
 * html5 canvas API 
 * 面向对象
 

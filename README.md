@@ -8,7 +8,7 @@ A big fish eat fruits and feed the small fish
 ## 2.概述
 
 
-*javascript技能
+* javascript技能
 * html5 canvas API 
 * 面向对象
 
